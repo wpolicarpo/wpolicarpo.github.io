@@ -16,9 +16,7 @@
 
     <div class="social">
       {% for network in site.data.social %}
-        <a href="{{ network.url }}" target="_blank">
-          <i class="icon {{ network.icon }}"></i>
-        </a>
+        <a href="{{ network.url }}" target="_blank" title="{{ network.title }}"><i class="icon {{ network.icon }}"></i></a>
       {% endfor %}
     </div>
   </div>
