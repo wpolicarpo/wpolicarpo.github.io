@@ -6,19 +6,6 @@ url: "https://wpolicarpo.github.io"
 name: Wanderson Policarpo
 job: Software Developer
 location: Dublin, Ireland
-social:
-  -
-    url: https://www.linkedin.com/in/wpolicarpo
-    icon: ion-social-linkedin
-  -
-    url: https://www.github.com/wpolicarpo
-    icon: ion-social-github
-  -
-    url: https://www.twitter.com/wpolicarpo
-    icon: ion-social-twitter
-  -
-    url: mailto:wpolicarpo@gmail.com
-    icon: ion-email
 
 # Build settings
 markdown: kramdown
