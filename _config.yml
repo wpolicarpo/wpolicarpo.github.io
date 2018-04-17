@@ -5,6 +5,9 @@ description: Jekyll Resume is a mega simple resume theme for Jekyll.
 url: "https://wpolicarpo.github.io"
 name: Wanderson Policarpo
 job: Software Developer
+company:
+  name: Fusioneer
+  site: http://fusioneer.com
 location: Dublin, Ireland
 credits: https://github.com/wpolicarpo/wpolicarpo.github.io#credits
 
