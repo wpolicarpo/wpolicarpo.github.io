@@ -6,6 +6,7 @@ url: "https://wpolicarpo.github.io"
 name: Wanderson Policarpo
 job: Software Developer
 location: Dublin, Ireland
+credits: https://github.com/wpolicarpo/wpolicarpo.github.io#credits
 
 # Build settings
 markdown: kramdown

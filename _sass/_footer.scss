@@ -14,4 +14,12 @@
   &__subtitle {
     text-transform: capitalize;
   }
+
+  &__credits {
+    font-size: 0.7rem;
+
+    a {
+      text-decoration: underline;
+    }
+  }
 }
