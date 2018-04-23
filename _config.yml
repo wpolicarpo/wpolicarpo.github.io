@@ -10,6 +10,7 @@ company:
   site: http://fusioneer.com
 location: Dublin, Ireland
 credits: https://github.com/wpolicarpo/wpolicarpo.github.io#credits
+gtag: "UA-19197679-1"
 
 # Build settings
 markdown: kramdown
