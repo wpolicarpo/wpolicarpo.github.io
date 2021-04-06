@@ -1,13 +1,13 @@
 # Site settings
 title: Wanderson Policarpo
 email: wpolicarpo@gmail.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
-url: "https://wpolicarpo.github.io"
+description: Wanderson Policarpo - Software Developer.
+url: "https://www.policarpo.com.br"
 name: Wanderson Policarpo
 job: Software Developer
 company:
-  name: Fusioneer
-  site: http://www.fusioneer.com
+  name: Avid Gaming
+  site: https://www.avidgaming.com
 location: Dublin, Ireland
 credits: https://github.com/wpolicarpo/wpolicarpo.github.io#credits
 gtag: "UA-19197679-1"
